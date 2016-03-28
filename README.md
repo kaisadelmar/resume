@@ -1,3 +1,6 @@
+# Interactive Resume Page
+Using jQuery, I developed an interactive resume application that reads all data from a JSON file and then dynamically modifies the DOM to display the information. Further customized the project by personalizing the design using CSS. Technologies/tools used: HTML, CSS, Javascript, jQuery.
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
